@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 90e3c0b69bb244acbbdd09e9dfa433fc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Test_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 64
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 64
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Test_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
