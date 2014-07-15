@@ -7,12 +7,26 @@ public class AnimateLine : MonoBehaviour {
 	private Texture2D tex;
 
 	void Start () {
-		tex = new Texture2D(texSize, texSize);
+		tex = new Texture2D(texSize, texSize, TextureFormat.ARGB32, false);
 		renderer.material.mainTexture = tex;
+		clearBackground();
+		//drawLines();
+	}
+
+	void clearBackground() {
+		for (int i=0; i<texSize; i++) {
+			for (int j=0; j<texSize; j++) {
+				tex.SetPixel (i, j, Color.clear);
+			}
+		}
+	}
+
+	void FixedUpdate () {
+		AnimateLines();
 	}
 
 	private float time = 0f;
-	void FixedUpdate () {
+	void AnimateLines() {
 		time += Time.deltaTime;
 		if (time > 0.5) {
 			drawLines();
