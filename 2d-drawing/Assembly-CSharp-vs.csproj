@@ -53,7 +53,8 @@
      <Compile Include="Assets\procedural geometry\circle\ProceduralGeometry.cs" />
      <Compile Include="Assets\procedural geometry\circle\ProceduralGeometryMenu.cs" />
      <Compile Include="Assets\procedural geometry\quad\CreatePlane.cs" />
-     <Compile Include="Assets\texture animate\AnimateLine.cs" />
+     <Compile Include="Assets\texture animate\random lines\AnimateLine.cs" />
+     <Compile Include="Assets\texture animate\zap\Zap.cs" />
      <Compile Include="Assets\waterline\WaterLine.cs" />
      <Compile Include="Assets\wave\Wave.cs" />
   </ItemGroup>
